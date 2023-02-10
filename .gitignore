@@ -16,3 +16,5 @@ __pycache__/
 # 排除所有的 .venv 文件夹
 .venv/
 
+# 排除所有递归的 .idea 文件夹
+.idea/
